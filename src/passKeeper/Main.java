@@ -6,6 +6,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 
 public class Main {
+	//test tool
 	private static byte[] keyValue = new byte[] { 'T', 'h', 'e', 'B', 'e', 's',
 		't', 'S', 'e', 'c', 'r', 'e', 't', 'K', 'e', 'y' };
 	public static void main(String[] args) throws Exception {
