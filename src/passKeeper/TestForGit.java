@@ -19,4 +19,8 @@ public class TestForGit {
     String a;
     int b;
     int v;
+
+    public void korina1MetaToKrina2(){
+
+    }
 }
