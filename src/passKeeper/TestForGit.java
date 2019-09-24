@@ -12,7 +12,15 @@ public class TestForGit {
 
     }
 
+    public void korina1pouTinTheleikAlos(){
+
+    }
+
     String a;
     int b;
     int v;
+
+    public void korina1MetaToKrina2(){
+
+    }
 }
