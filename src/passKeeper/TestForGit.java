@@ -12,6 +12,10 @@ public class TestForGit {
 
     }
 
+    public void korina1pouTinTheleikAlos(){
+
+    }
+
     String a;
     int b;
     int v;
