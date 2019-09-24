@@ -4,7 +4,6 @@ public class TestForGit {
 
     public void add(){
         //sxolia sti main
-        //sxolio
     }
 
     public void remove(){
