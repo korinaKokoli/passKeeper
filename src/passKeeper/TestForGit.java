@@ -5,7 +5,7 @@ public class TestForGit {
     public void add(){
         //sxolia sti main
         //kano allagi na tin do sto remote
-        //allagi me aplo merge
+        //allagi me aplo merge 2 me aplo commit oxi push
 
     }
 
