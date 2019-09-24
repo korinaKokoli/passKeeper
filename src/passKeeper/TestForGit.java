@@ -27,4 +27,5 @@ public class TestForGit {
     public void korina1MetaToKrina2(){
 
     }
+    //commit 1
 }
