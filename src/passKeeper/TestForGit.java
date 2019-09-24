@@ -6,6 +6,7 @@ public class TestForGit {
         //sxolia sti main
         //kano allagi na tin do sto remote
         //allagi me aplo merge 2 me aplo commit oxi push
+        //allagi me rebase 2 me aplo commit oxi push
 
     }
 
