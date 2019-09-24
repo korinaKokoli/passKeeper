@@ -16,6 +16,10 @@ public class TestForGit {
 
     }
 
+    public void korina2(){
+
+    }
+
     String a;
     int b;
     int v;
