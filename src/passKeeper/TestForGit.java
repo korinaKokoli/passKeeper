@@ -10,6 +10,7 @@ public class TestForGit {
     }
 
     public void remove(){
+        //edo apo git
 
     }
 
