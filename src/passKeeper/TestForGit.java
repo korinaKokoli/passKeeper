@@ -3,7 +3,7 @@ package passKeeper;
 public class TestForGit {
 
     public void add(){
-        //sxolia sti main
+        //sxolia sti main 2
     }
 
     public void remove(){
