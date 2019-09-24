@@ -23,4 +23,4 @@ public class TestForGit {
 }
 
 //allages apo master - apo master - allgi apo branch
-//allagi 2 meta to rebase
+//allagi 2 meta to rebase tora prepei na vgalei warning
