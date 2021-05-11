@@ -32,6 +32,7 @@ public class TestForGit {
         List<String> result = yourResultList.stream()
                 .filter(res -> template.getId().equals(res.getId()))
                 .collect(Collectors.toList());
+        
         //opote tora exeis to result me to 1 antikeimeno h an oxi logare oti dn efere tpt
     }
     //commit 11
